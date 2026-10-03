@@ -1,0 +1,1 @@
+print("My first program from VS Code")
